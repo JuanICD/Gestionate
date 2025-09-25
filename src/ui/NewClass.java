@@ -5,10 +5,9 @@
  */
 package ui;
 
-/**
- *
- * @author alex
- */
+/*
+Author Alex and Juan
+*/
 public class NewClass {
     
 }
