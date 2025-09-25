@@ -3,13 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+package ui;
 
 /**
  *
  * @author chad
  */
-public class Prueba {
-    public static void main(String[] args) {
-        //prueba
-    }
+public class NewClass {
+    
 }
