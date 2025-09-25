@@ -4,9 +4,11 @@
  * and open the template in the editor.
  */
 package ui;
-/*
-Author Alex and Juan and Puchol
-*/
+
+/**
+ *
+ * @author chad
+ */
 public class NewClass {
     
 }
