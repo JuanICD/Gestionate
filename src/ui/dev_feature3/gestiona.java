@@ -14,7 +14,7 @@ import javafx.scene.layout.StackPane;
 import javafx.stage.Stage;
 
 /**
- * chance class
+ * New comment to class
  * @author puchol
  */
 public class gestiona extends Application {
